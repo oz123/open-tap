@@ -1,3 +1,4 @@
+# oddly enought this Makefile prdouces silly results with make-3.81 so please only use >=make-3.82 on debian
 
 runos:
 	python run_redox_eq_os.py
